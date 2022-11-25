@@ -1,0 +1,2 @@
+# yapkg
+go pkg
